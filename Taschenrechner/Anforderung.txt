@@ -1,0 +1,27 @@
+﻿Vollfunktionaler Taschenrechner
+
+Funktionen:
+
+-Operationen:
+Addition
+Subtraktion
+Multiplizieren
+Dividieren
+
+-Weiterrechnen möglich (Ergebnis kann weiter verwendet werden)
+-Ergebnis in Zwischenablage zu speichern
+-Einfügen der Zwischenablage
+
+UI:
+Tasten des Taschenrechners
+Darstellung des Ergebnis
+Darstellung der Berechnung
+
+
+Benötigt wird:
+Funktionen zur Berechnung (Methoden)
+Globale Generics zum Halten der Operatoren
+Float für Operanden (2)
+Zwei Dimensionales Float Array zur Haltung der vorigen Rechnungen
+
+GridPane für Tasten des Taschenrechners
